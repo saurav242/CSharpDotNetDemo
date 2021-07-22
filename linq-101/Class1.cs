@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpDotNetDemo.Library
+namespace linq_101
 {
     public class Class1
     {

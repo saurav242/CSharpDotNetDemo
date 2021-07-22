@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDotNetDemo", "CSharpDotNetDemo\CSharpDotNetDemo.csproj", "{1FDE4541-1F56-4232-BB78-69E7D91FD6F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpDotNetDemo", "CSharpDotNetDemo\CSharpDotNetDemo.csproj", "{1FDE4541-1F56-4232-BB78-69E7D91FD6F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDotNetDemo.Library", "CSharpDotNetDemo.Library\CSharpDotNetDemo.Library.csproj", "{236B63BE-5310-4628-AE64-773F3D9FF339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpDotNetDemo.Library", "CSharpDotNetDemo.Library\CSharpDotNetDemo.Library.csproj", "{236B63BE-5310-4628-AE64-773F3D9FF339}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDotNetDemo.Data", "CSharpDotNetDemo.Data\CSharpDotNetDemo.Data.csproj", "{14FBB3DF-4475-490A-9323-1E916D96075D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpDotNetDemo.Data", "CSharpDotNetDemo.Data\CSharpDotNetDemo.Data.csproj", "{14FBB3DF-4475-490A-9323-1E916D96075D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq-101", "linq-101\linq-101.csproj", "{4DF81B54-6E69-46BA-B388-B96E05FB5E49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{14FBB3DF-4475-490A-9323-1E916D96075D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14FBB3DF-4475-490A-9323-1E916D96075D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14FBB3DF-4475-490A-9323-1E916D96075D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF81B54-6E69-46BA-B388-B96E05FB5E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF81B54-6E69-46BA-B388-B96E05FB5E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF81B54-6E69-46BA-B388-B96E05FB5E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF81B54-6E69-46BA-B388-B96E05FB5E49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

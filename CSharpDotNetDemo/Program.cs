@@ -1,4 +1,6 @@
-﻿using System;
+﻿using CSharpDotNetDemo.Library;
+using Newtonsoft.Json;
+using System;
 
 namespace CSharpDotNetDemo
 {
@@ -7,6 +9,8 @@ namespace CSharpDotNetDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Linq linq = new Linq();
+            linq.Examples();
         }
     }
 }
