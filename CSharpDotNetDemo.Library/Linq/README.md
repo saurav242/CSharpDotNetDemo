@@ -8,7 +8,7 @@ There are 2 Ways to write LINQ Queries
 
 Behind the Scene LINQ querire written in SQL like Query syntex are transalted into Method Syntex (using Lambda expression).
 
-The Standary Query Operators are implemented as extension method on IEnumerable<T> Interface
+The Standary Query Operators are implemented as extension method on `IEnumerable<T>` Interface
 
 ### A. Aggregate Operators
 
